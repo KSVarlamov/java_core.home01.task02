@@ -1,1 +1,2 @@
-# java_core.home01.task02
+# Задача 2. Работяга
+Реализация задачи [отсюда](https://github.com/netology-code/jd-homeworks/tree/master/lambda/task2)
