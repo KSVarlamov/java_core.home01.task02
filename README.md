@@ -1,2 +1,2 @@
-# Задача 2. Работяга
-Реализация задачи [отсюда](https://github.com/netology-code/jd-homeworks/tree/master/lambda/task2)
+# Р—Р°РґР°С‡Р° 2. Р Р°Р±РѕС‚СЏРіР°
+Р РµР°Р»РёР·Р°С†РёСЏ Р·Р°РґР°С‡Рё [РѕС‚СЃСЋРґР°](https://github.com/netology-code/jd-homeworks/tree/master/lambda/task2)
